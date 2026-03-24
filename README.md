@@ -46,5 +46,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Subham-Pradhan-2006/Subham-Pradhan-2006/output/pacman-contribution-graph.svg" />
 </div>
-
----
